@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: app-debug.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '19'
+packageInfo:
+  cur_package: com.example.demo.demo
+  orig_package: com.example.demo.demo
+compressionType: false

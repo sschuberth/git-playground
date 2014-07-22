@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="title_module_guides">
+        <item quantity="one">&amp;lt;b>%d&amp;lt;/b> guide</item>
+    </plurals>
+</resources>
